@@ -27,6 +27,7 @@ Idealizador da metodologia **"Bastões de Contexto"** (`AGENTS.md`), um protocol
   Plataforma Web3, CMS corporativo e automação de redes sociais com galeria de colaboradores em IA e Tokenomics.  
   *Stack: Laravel 11, Vue 3.5, TipTap Editor, VueUse Motion, Twitter API, Web3 Tokenomics.*
 ---
-### 📈 Estatísticas do GitHub
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siqale&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siqale&layout=compact&theme=dark)
+### ⚙️ Metodologia & Governança de IA
+- **Bastões de Contexto (`AGENTS.md`):** Governança técnica e transferência contínua de contexto para desenvolvimento assistido por Agentes de IA.
+- **TDD & Qualidade de Código:** Testes automatizados, mocks de APIs de terceiros e sanitização de segurança (XSS/CSRF).
+- **Arquitetura Multi-Tenant & SaaS:** Estruturação de instâncias isoladas, ORM tuning e segurança server-side.
